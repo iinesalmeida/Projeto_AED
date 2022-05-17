@@ -12,7 +12,7 @@
 | Evento                        | Data                 |
 | ----------------------------- | -------------------- |
 | Disponibilização de enunciado | 16/05/2022           |
-| Entrega                       | , 23:59:59 |
+| Entrega                       | 20/06/2022, 23:59:59 |
 
 ### Regras
 - O código produzido deverá estar disponível no repositório GitHub gerado pelo GitHub Classroom.
